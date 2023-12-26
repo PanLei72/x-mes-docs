@@ -1,0 +1,17 @@
+= 简介
+:page-aliases: quick-start:index.adoc
+
+欢迎使用 http://106.15.185.59:8080[X MES帮助文档^] !
+
+本文档描述在X MES中创建的所有构建时对象。
+
+
+== X MES是什么?
+
+*X MES* 是基于Jmix构建的MES系统。
+
+== X MES主页
+
+下图为X MES主页。
+
+image::portal.png[align="center"]

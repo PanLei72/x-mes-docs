@@ -1,0 +1,14 @@
+site:
+  title: X MES 帮助文档
+  url: http://106.15.185.59:8081/
+  start_page: X MES Help Doc:ROOT:intro.adoc
+content:
+  sources: 
+  - url: ./
+    branches: HEAD
+    start_path: content
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ./content/supplemental
