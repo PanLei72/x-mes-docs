@@ -6,9 +6,9 @@ content:
   sources: 
   - url: ./
     branches: HEAD
-    start_path: content
+    start_path: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
-  supplemental_files: ./content/supplemental
+  supplemental_files: ./docs/supplemental
