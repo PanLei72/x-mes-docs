@@ -1,0 +1,4 @@
+* xref:ROOT:intro.adoc[]
+
+include::site:partial$nav.adoc[]
+include::area:partial$nav.adoc[]

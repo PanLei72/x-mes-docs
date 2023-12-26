@@ -1,0 +1,4 @@
+= 简介
+:page-aliases: quick-start:index.adoc
+
+欢迎使用 http://106.15.185.59:8080[X MES用户手册^] 文档!
