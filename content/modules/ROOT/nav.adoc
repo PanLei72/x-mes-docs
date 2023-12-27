@@ -1,4 +1,9 @@
 * xref:ROOT:intro.adoc[]
 
-include::site:partial$nav.adoc[]
-include::area:partial$nav.adoc[]
+include::master-data:partial$nav.adoc[]
+include::order-management:partial$nav.adoc[]
+include::quality-management:partial$nav.adoc[]
+include::print-management:partial$nav.adoc[]
+include::production-execution:partial$nav.adoc[]
+include::production-query:partial$nav.adoc[]
+

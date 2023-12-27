@@ -8,13 +8,13 @@ image::site.png[align="center"]
 
 == 查询
 
-直接点击查询，查询所有工厂主数据。
+直接点击【查询】按钮，查询所有工厂主数据。
 
-输入查询条件，点击查询，查询结果为根据条件过滤后的工厂主数据。
+输入查询条件，点击【查询】按钮，查询结果为根据条件过滤后的工厂主数据。
 
 == 创建
 
-image::create.png[align="center"]
+image::site-create.png[align="center"]
 
 工厂名称：必填，不可重复，字母区分大小写。
 

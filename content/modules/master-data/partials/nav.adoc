@@ -1,0 +1,27 @@
+* xref:master-data:index.adoc[]
+
+** xref:master-data:factory-master-data-index.adoc[]
+
+*** xref:master-data:site.adoc[]
+*** xref:master-data:area.adoc[]
+*** xref:master-data:production-line.adoc[]
+*** xref:master-data:production-queue.adoc[]
+*** xref:master-data:work-center.adoc[]
+*** xref:master-data:work-center-class.adoc[]
+*** xref:master-data:equipment.adoc[]
+*** xref:master-data:equipment-class.adoc[]
+*** xref:master-data:station.adoc[]
+*** xref:master-data:carrier.adoc[]
+*** xref:master-data:carrier-class.adoc[]
+*** xref:master-data:location.adoc[]
+
+** xref:master-data:product-master-data-index.adoc[]
+*** xref:master-data:part.adoc[]
+
+
+** xref:master-data:process-master-data-index.adoc[]
+
+** xref:master-data:calendar-master-data-index.adoc[]
+
+
+** xref:master-data:system-master-data-index.adoc[]
