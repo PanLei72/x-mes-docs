@@ -2,11 +2,7 @@
 
 .doc {
     hyphens: none;
-}
-
-.navbar-item .icon {
-    height: 38px;
-    width: 38px;
+    max-width: 65rem;
 }
 
 a.live-demo-btn {
@@ -24,7 +20,8 @@ a.live-demo-btn:hover {
     background-color: #ffd588;
 }
 
-a.live-demo-btn:active, a.live-demo-btn:focus {
+a.live-demo-btn:active,
+a.live-demo-btn:focus {
     outline: none;
 }
 
@@ -33,7 +30,12 @@ a.live-demo-btn:active, a.live-demo-btn:focus {
     padding: 1px;
 }
 
-.doc h1, .doc h2, .doc h3, .doc h4, .doc h5, .doc h6 {
+.doc h1,
+.doc h2,
+.doc h3,
+.doc h4,
+.doc h5,
+.doc h6 {
     color: #342a98;
 }
 
@@ -42,12 +44,21 @@ a.live-demo-btn:active, a.live-demo-btn:focus {
 }
 
 nav.navbar {
-    background: #47494d;
+    background: #17124B;
 }
 
-a, .doc a, .doc a:hover {
+a,
+.doc a,
+.doc a:hover,
+.footer a,
+.footer a:hover {
     color: #342a98;
 }
+
+.footer {
+    padding: 1rem !important;
+}
+
 
 a.vaadin-docs-btn {
     background-color: #2486f9;
@@ -66,7 +77,8 @@ a.vaadin-docs-btn:hover {
     color: #fdfdfd;
 }
 
-a.vaadin-docs-btn:active, a.vaadin-docs-btn:focus {
+a.vaadin-docs-btn:active,
+a.vaadin-docs-btn:focus {
     outline: none;
 }
 
@@ -87,6 +99,7 @@ a.mdn-docs-btn:hover {
     color: #f8f8f9;
 }
 
-a.mdn-docs-btn:active, a.mdn-docs-btn:focus {
+a.mdn-docs-btn:active,
+a.mdn-docs-btn:focus {
     outline: none;
 }
