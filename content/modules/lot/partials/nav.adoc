@@ -1,0 +1,3 @@
+* xref:lot:index.adoc[]
+
+** xref:lot:create.adoc[]

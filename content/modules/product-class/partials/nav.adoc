@@ -1,0 +1,3 @@
+* xref:product-class:index.adoc[]
+
+** xref:product-class:create.adoc[]

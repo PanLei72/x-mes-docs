@@ -1,0 +1,3 @@
+* xref:work-schedule:index.adoc[]
+
+** xref:work-schedule:create.adoc[]

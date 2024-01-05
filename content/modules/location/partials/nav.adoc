@@ -1,0 +1,3 @@
+* xref:location:index.adoc[]
+
+** xref:location:create.adoc[]

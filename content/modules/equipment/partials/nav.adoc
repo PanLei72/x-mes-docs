@@ -1,0 +1,3 @@
+* xref:equipment:index.adoc[]
+
+** xref:equipment:create.adoc[]

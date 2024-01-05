@@ -1,0 +1,3 @@
+* xref:work-center-class:index.adoc[]
+
+** xref:work-center-class:create.adoc[]

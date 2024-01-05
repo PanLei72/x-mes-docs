@@ -2,6 +2,7 @@
 
 .doc {
     hyphens: none;
+    max-width: 65rem;
 }
 
 .navbar-item .icon {

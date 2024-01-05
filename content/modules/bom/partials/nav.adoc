@@ -1,0 +1,3 @@
+* xref:bom:index.adoc[]
+
+** xref:bom:create.adoc[]

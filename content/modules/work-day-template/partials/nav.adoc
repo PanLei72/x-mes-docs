@@ -1,0 +1,3 @@
+* xref:work-day-template:index.adoc[]
+
+** xref:work-day-template:create.adoc[]

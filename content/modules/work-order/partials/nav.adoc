@@ -1,0 +1,6 @@
+* xref:work-order:index.adoc[]
+
+** xref:work-order:create.adoc[]
+
+** xref:work-order:work-order-item.adoc[]
+*** xref:work-order:work-order-item-create.adoc[]

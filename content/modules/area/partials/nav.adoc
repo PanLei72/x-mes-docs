@@ -1,1 +1,3 @@
 * xref:area:index.adoc[]
+
+** xref:area:create.adoc[]
