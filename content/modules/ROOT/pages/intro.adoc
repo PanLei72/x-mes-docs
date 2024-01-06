@@ -12,6 +12,14 @@
 
 == X MES主页
 
-下图为X MES主页。
+* 下图为X MES主页。
 
 image::portal.png[align="center"]
+
+* 下图为X MES生产管理主页
+
+image::production-management.png[align="center"]
+
+* 下图为X MES生产执行主页
+
+image::production-execution.png[align="center"]

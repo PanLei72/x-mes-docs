@@ -1,2 +1,57 @@
 = 物料
 
+在设计制造工艺之前，在工艺设计器中创建物料和BOM。在创建BOM之前，必须创建所有引用的物料。
+
+
+== 相关对象
+物料与以下对象相关:
+
+* BOM
+* 工单项
+* 批次
+* 生产单元
+
+
+== 数据存储
+有关物料的信息存储在以下数据库表中:
+
+* PART
+* ALTERNATE_PART
+* ALTERNATE_PART_GROUP
+* CONSUMED_PART
+* TRX_CONSUMPTION
+
+== 物料浏览页面
+由以下部分组成:
+
+* *过滤器*
+
+定义过滤条件，默认提供物料名称、描述过滤条件。也可以自定义配置过滤器。
+
+* *功能按钮*
+
+创建、编辑、删除、导出物料对象。
+
+分页查询，修改每页显示行数。
+
+* *数据列表*
+
+显示物料对象所有属性。
+
+
+image::part.png[align="center"]
+
+== 物料编辑器
+由以下部分组成:
+
+* *属性*
+
+定义物料属性。
+
+image::part-editor.png[align="center"]
+
+* *关联对象*
+
+显示关联对象。
+
+image::part-reference.png[align="center"]
