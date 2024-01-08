@@ -1,6 +1,8 @@
 * xref:ROOT:intro.adoc[]
 
 ** xref:ROOT:object-information.adoc[]
+** xref:ROOT:linkable-objects.adoc[]
+** xref:ROOT:setting.adoc[]
 
 //工厂主数据
 include::site:partial$nav.adoc[]

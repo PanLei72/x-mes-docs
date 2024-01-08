@@ -1,0 +1,14 @@
+= 设置
+
+== 系统设置
+
+image::system-setting.png[align="center"]
+
+== UI设置
+
+image::ui-setting.png[align="center"]
+
+== 系统集成设置
+
+image::integration-setting.png[align="center"]
+

@@ -1,2 +1,25 @@
 = 容器
 
+容器是一个运行时对象，用于对相同类型或不同类型的跟踪对象进行分组。无法使用生产管理创建容器。容器可以是以下类型之一:
+
+* Normal
+* Group
+* Reusable
+* TrackedReusable
+
+
+== 相关对象
+容器与以下对象相关:
+
+* 批次
+* 生产单元
+
+
+== 数据存储
+有关容器的信息存储在以下数据库表中:
+
+* BOX
+* BOX_CONTENT
+* TOS_STACK
+* TRACKED_OBJECT_HISTORY
+* TRACKED_OBJECT_STATUS
