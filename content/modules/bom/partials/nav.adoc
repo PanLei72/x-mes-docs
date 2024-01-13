@@ -1,3 +1,5 @@
 * xref:bom:index.adoc[]
 
 ** xref:bom:create.adoc[]
+** xref:bom:bom-item.adoc[]
+*** xref:bom:create-bom-item.adoc[]
